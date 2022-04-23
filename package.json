@@ -1,17 +1,26 @@
 {
-  "name": "assessment-5",
+  "name": "storefront-assessment5-2008-w22",
   "version": "1.0.0",
-  "description": "Created with nextjs & stripe",
+  "description": "Created with NextJS & Stripe",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NN010/storefront-assessment5-2008-w22.git"
+  },
   "author": "Nicholas Nguyen",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NN010/storefront-assessment5-2008-w22/issues"
+  },
+  "homepage": "https://github.com/NN010/storefront-assessment5-2008-w22#readme",
   "dependencies": {
     "create-next-app": "^12.1.2",
     "next": "^12.1.2",
     "nextjs": "^0.0.3",
-    "react": "^18.0.0"
+    "react": "^18.0.0",
+    "scss": "^0.2.4"
   }
 }
