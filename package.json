@@ -1,0 +1,17 @@
+{
+  "name": "assessment-5",
+  "version": "1.0.0",
+  "description": "Created with nextjs & stripe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "create-next-app": "^12.1.2",
+    "next": "^12.1.2",
+    "nextjs": "^0.0.3",
+    "react": "^18.0.0"
+  }
+}
